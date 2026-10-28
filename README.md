@@ -5,7 +5,8 @@ Yusvaanth A. S.
 Aspiring Data Analyst | Python Developer | CSE Undergraduate
 
 Interested in using data analysis, visualization, and software development to solve practical problems.
-<img src = "./ " width="100%" alt="Data Analyst">
+<br>
+<img src = "./demo.png" width="100%" alt="Data Analyst">
 <p>
   <a href="https://github.com/Yusvaanth15">
     <img src="https://img.shields.io/badge/GitHub-Yusvaanth15-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
