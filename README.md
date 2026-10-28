@@ -4,7 +4,7 @@ Yusvaanth A. S.
 
 Aspiring Data Analyst | Python Developer | CSE Undergraduate
 
-Interested in using data analysis, visualization, and software development to solve practical problems.
+Interested in using data analysis, visualization, and software development to solve practical problems.<br>
 <br>
 <img src = "./Demo.png" width="100%" alt="Data Analyst">
 <p>
