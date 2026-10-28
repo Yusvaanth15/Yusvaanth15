@@ -1,185 +1,121 @@
-<div align="center">
+Hi there, I'm Yusvaanth A. S. 👋
 
-Yusvaanth A. S.
+Aspiring Data Analyst | Python Developer | Tech Enthusiast
 
-Aspiring Data Analyst | Python Developer | CSE Undergraduate
+Passionate about transforming raw data into actionable insights through analytics, machine learning, and interactive dashboards.
 
-Interested in using data analysis, visualization, and software development to solve practical problems.<br>
-<br>
-<img src = "./Demo.png" width="100%" alt="Data Analyst">
-<p>
-  <a href="https://github.com/Yusvaanth15">
-    <img src="https://img.shields.io/badge/GitHub-Yusvaanth15-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/yusvaanth1507">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:yusvaanthas6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+👨‍💻 About Me
 
-</div>
+I am a Technology undergraduate (Class of 2027) with practical internship experience in Data Analytics, Python Development, and Web Applications. I specialize in exploratory data analysis (EDA), business intelligence reporting, and building predictive machine learning models with interactive user interfaces.
 
-About Me
+📊 Core Interests: Data Analytics, Business Intelligence, Predictive Modeling & Data Visualization
 
-I am a Computer Science and Engineering undergraduate building practical experience across data analytics, Python development, and web development. I enjoy preparing and exploring data, creating dashboards, and developing applications that address real-world needs.
+🛠️ Tech Focus: Python, SQL, Microsoft Excel, Power BI, Streamlit & MySQL
 
-📊 Interested in Data Analytics, Business Intelligence, and Data Visualization
+💡 Passion: Translating business problems into intuitive data products and automated workflows
 
-🐍 Working with Python, SQL, Excel, Power BI, and MySQL
+🌱 Continuous Learning: 15+ Professional Certifications across Power BI, GenAI, and Data Science
 
-🧩 Building projects that combine analysis, machine learning, and application development
+🛠️ Technical Skills
 
-🌱 Continuously developing my technical skills through projects, internships, and certifications
+Domain
 
-Technical Skills
+Tools & Technologies
 
-Category
-
-Skills
-
-Programming
+Programming Languages
 
 Python, SQL, JavaScript
 
-Data Analytics
+Data Analytics & BI
 
-Microsoft Excel, data cleaning, data preprocessing, exploratory data analysis (EDA), data visualization
-
-Business Intelligence
-
-Power BI, dashboard and report development
+Microsoft Excel (Advanced), Power BI, Data Cleaning, EDA, KPI Dashboards
 
 Databases
 
 MySQL
 
-Python & Analysis Libraries
+Libraries & Frameworks
 
-Pandas, NumPy, Scikit-learn
+Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit
 
 Web Development
 
-HTML, CSS, React.js
+HTML5, CSS3, React.js
 
-Tools
+Tools & Platforms
 
-Jupyter Notebook, Google Colab, VS Code, Git, GitHub, Microsoft Office
+Jupyter Notebook, Google Colab, VS Code, Git, GitHub
 
-Cloud
+Cloud Fundamentals
 
-AWS EC2, S3, IAM
+AWS (EC2, S3, IAM)
 
-Featured Projects
+🚀 Featured Projects
 
-CareerCompass AI — Intelligent Career Intelligence Platform
+🧭 CareerCompass AI — Intelligent Career Intelligence Platform
 
-A machine-learning project that predicts suitable career paths from student skills and academic data. The project includes data preprocessing, exploratory analysis, feature engineering, model evaluation, and an interactive Streamlit application.
+Predictive machine learning system that recommends career paths from student academic performance and technical skills.
 
-Technologies: Python · Pandas · NumPy · Scikit-learn · Streamlit
+Tech Stack: Python · Pandas · NumPy · Scikit-learn · Streamlit
 
-View repository
+Deployed an interactive Streamlit UI offering real-time recommendations and skill gap analytics.
 
-Weather Prediction
+Integrated automated feature preprocessing and multi-class classification models.
 
-A machine-learning project using historical weather data to predict weather conditions. The workflow covers data cleaning, visualization, feature engineering, and model evaluation.
+⛅ Weather Prediction ML Pipeline
 
-Technologies: Python · Pandas · NumPy · Scikit-learn
+Predictive forecasting model built on historical meteorological datasets.
 
-View repository
+Tech Stack: Python · Pandas · NumPy · Scikit-learn
 
-Digital Academic Log Book
+Performed end-to-end data cleaning, EDA, feature selection, and classification metrics analysis.
 
-A web-based academic management system designed to organize attendance, marks, assignments, and student records through a centralized platform.
+📚 Digital Academic Log Book
 
-Technologies: HTML · CSS · JavaScript · React.js · MySQL
+Centralized academic management web portal for real-time tracking of attendance, marks, and student performance.
 
-Browse my GitHub repositories
+Tech Stack: React.js · JavaScript · CSS3 · MySQL
 
-Internship Experience
+💼 Internship Experience
 
-Data Analytics Intern — Mavenly Edutech Pvt. Ltd.
-January 2026 – March 2026
+Data Analytics Intern — Mavenly Edutech Pvt. Ltd. (Jan 2026 – Mar 2026)
 
-Worked on data cleaning, preprocessing, and exploratory data analysis.
+Executed exploratory data analysis (EDA) and data preprocessing on real-world datasets.
 
-Created dashboards and reports using Power BI and Microsoft Excel.
+Built interactive Power BI & Excel dashboards delivering visual metrics for decision-making.
 
-Used Python and SQL to analyze datasets and support data-driven decision-making.
+Queried structured databases using SQL and automated transformation tasks in Python.
 
-Python Development Intern — Hunar Intern
-January 2025 – February 2025
+Python Development Intern — Hunar Intern (Jan 2025 – Feb 2025)
 
-Developed Python programs to strengthen programming and problem-solving skills.
+Developed modular Python scripts focused on data extraction, string parsing, and task automation.
 
-Practiced data processing, debugging, and basic automation.
+Enhanced debugging and algorithm efficiency through hands-on coding assignments.
 
-Completed practical development tasks.
+📜 Key Certifications
 
-Certifications & Learning
+Data Analysis & Visualization with Power BI — Microsoft & Coursera
 
-Certifications and training listed in my resume include:
+Power BI Fundamentals — Corporate Finance Institute (CFI)
 
-Data Analysis and Visualization with Power BI — Microsoft & Coursera
+Data Modeling & ETL in Power BI — Microsoft & Coursera
 
-Power BI Fundamentals — Corporate Finance Institute & Coursera
+Google Prompting Essentials — Google
 
-Data Modeling in Power BI — Microsoft & Coursera
-
-Extract, Transform and Load Data in Power BI — Microsoft & Coursera
-
-Google Prompting Essentials — Google & Coursera
-
-Introduction to Artificial Intelligence — IBM & Coursera
+Introduction to Artificial Intelligence (AI) — IBM & Coursera
 
 Generative AI: Prompt Engineering Basics — IBM & Coursera
 
-GenAI for Application Developers — Coursera
+Python Data Structures — University of Michigan
 
-Python Data Structures — University of Michigan & Coursera
+🎓 Education
 
-Introduction to Internet of Things — NPTEL
+Bachelor of Technology (B.Tech) - IT / CSE | Nehru Institute of Engineering and Technology (Expected 2027)
 
-Java Training — IIT Bombay Spoken Tutorial
+Academic Standing: CGPA 8.9 / 10.0
 
-Education
+Higher Secondary Certificate (Class XII) | MAM Matric HSS (82%)
 
-Nehru Institute of Engineering and Technology
-Undergraduate degree in Computer Science / Information Technology — expected 2027.
+📊 GitHub Analytics
 
-Note: My resume currently contains both “B.Tech – Information Technology” and references to Computer Science Engineering. I will update this section once the official degree title is confirmed.
-
-Currently Exploring
-
-Data analysis and reporting with Excel, SQL, and Power BI
-
-Python-based data preparation and analysis
-
-Dashboard design and clear communication of insights
-
-Practical projects that demonstrate end-to-end problem solving
-
-GitHub Overview
-
-<div align="center">
-
-
-
-
-
-</div>
-
-These cards are generated by a third-party service and may occasionally be unavailable. Language statistics reflect repository contents, not necessarily proficiency.
-
-Connect With Me
-
-GitHub: github.com/Yusvaanth15
-
-LinkedIn: linkedin.com/in/yusvaanth1507
-
-Email: yusvaanthas6@gmail.com
-
-<div align="center">
-  <sub>Learning by building. Improving through practice. Using data to solve problems.</sub>
-</div>
+📬 Connect With Me
